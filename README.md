@@ -2,14 +2,14 @@ OrderManager
 This API allows users to create and manage orders.
 
 Setup Instructions
-Extract the Folder:
-Download the project and extract the folder to your preferred location.
+Extract the ZIP Folder:
+ - Download the project and extract the zip folder to your preferred location.
 
 Open IntelliJ IDEA:
-Launch IntelliJ IDEA and open the project.
+ - Launch IntelliJ IDEA and open the project.
 
 Run the API:
-Run the API using IntelliJ IDEA.
+- Run the API using IntelliJ IDEA.
 
 Create Entities:
 Use the following commands in the command prompt (CMD) to create users, items, orders, and stock movements.
